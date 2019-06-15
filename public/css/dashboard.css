@@ -1,0 +1,139 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Style rules for the SVG graphic - You don't need to modify these */
+.cls-1, .cls-11, .cls-21, .cls-30 {
+  fill: none;
+}
+
+.cls-1 {
+  stroke: #a7a7a7;
+}
+
+.cls-1, .cls-21 {
+  stroke-width: 3px;
+}
+
+.cls-2 {
+  fill: #c1eaff;
+}
+
+.cls-27, .cls-3 {
+  fill: #fff;
+}
+
+.cls-4 {
+  fill: #e6e8e8;
+}
+
+.cls-5 {
+  fill: #d6d6d6;
+}
+
+.cls-6 {
+  fill: #298ac4;
+}
+
+.cls-7 {
+  fill: #d4d4d4;
+}
+
+.cls-8 {
+  fill: #afb0b0;
+}
+
+.cls-9 {
+  fill: #971d20;
+}
+
+.cls-10 {
+  fill: #e8bf3d;
+}
+
+.cls-11 {
+  stroke: #c1eaff;
+  stroke-width: 5px;
+}
+
+.cls-12 {
+  fill: #a1c9de;
+}
+
+.cls-13 {
+  fill: #989898;
+}
+
+.cls-14, .cls-26 {
+  fill: #4e4e4e;
+}
+
+.cls-15 {
+  fill: #ecf9ff;
+}
+
+.cls-16 {
+  fill: #40ed9c;
+}
+
+.cls-17, .cls-25, .cls-28 {
+  fill: #ed4044;
+}
+
+.cls-18 {
+  fill: #ffce33;
+}
+
+.cls-19 {
+  fill: #bebcbc;
+}
+
+.cls-20 {
+  fill: #edf2f5;
+}
+
+.cls-21 {
+  stroke: #b7d5e7;
+}
+
+.cls-22 {
+  fill: #b8b9bc;
+}
+
+.cls-23 {
+  fill: #e7be3b;
+}
+
+.cls-24 {
+  fill: #89b8d4;
+}
+
+.cls-25 {
+  font-size: 60px;
+}
+
+.cls-25, .cls-28 {
+  font-family: OpenSans-Extrabold, Open Sans;
+  font-weight: 800;
+}
+
+.cls-26 {
+  font-size: 24px;
+}
+
+.cls-26, .cls-27 {
+  font-family: OpenSans-Bold, Open Sans;
+  font-weight: 700;
+}
+
+.cls-27 {
+  font-size: 14px;
+}
+
+.cls-28 {
+  font-size: 72px;
+}
+
+.cls-29 {
+  stroke: none;
+}
